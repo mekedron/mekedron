@@ -19,7 +19,6 @@ I'm a developer based in Espoo, Finland, and I love contributing to open source.
 ### 🌐 Web & browser
 
 - 📝 **[InputStash](https://mekedron.github.io/InputStash/)** — Browser extension that keeps a local history of every form field you type into, so you never lose a draft.
-- 📊 — Svelte dashboard to sync and explore your Wolt order history.
 
 ### 🧰 macOS setup & curations
 
