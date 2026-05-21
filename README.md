@@ -8,7 +8,7 @@ I'm a developer based in Espoo, Finland, and I love contributing to open source.
 
 - ✍️ **[ClipSlop](https://mekedron.github.io/ClipSlop/)** — 🌟 **FEATURED** 🌟 — Free AI writing tool for macOS. Fix grammar, translate, rewrite, or format text with a hotkey. Works with ChatGPT, Anthropic, and Ollama.
 - 🎙️ **[PatchedVoiceInk](https://github.com/mekedron/PatchedVoiceInk)** — Community-patched fork of VoiceInk that I maintain. Near-instant local-first voice-to-text transcription for macOS.
-- 📤 **[MagicShare](https://mekedron.github.io/MagicShare/)** — Fork I maintain. Open-source cross-platform alternative to AirDrop, with a Wake Up feature added.
+- 📤 **[MagicShare](https://mekedron.github.io/MagicShare/)** _[in progress, not done yet]_ — Fork I maintain. Open-source cross-platform alternative to AirDrop, with a Wake Up feature added.
 
 ### ⌨️ Command-line tools
 
