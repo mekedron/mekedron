@@ -12,14 +12,14 @@ I'm a developer based in Espoo, Finland, and I love contributing to open source.
 
 ### ⌨️ Command-line tools
 
-- 🍔 **[wolt-cli](https://mekedron.github.io/wolt-cli/)** — Unofficial Go CLI for Wolt. Built primarily to drive AI agents (OpenCode, Claude Desktop, etc.) so they can browse venues, manage carts, and preview checkout for me.
+- 🍔 **[wolt-cli](https://mekedron.github.io/wolt-cli/)** + **[wolt-stats](https://github.com/mekedron/wolt-stats)** ([demo](https://mekedron.github.io/wolt-stats/) — Unofficial Go CLI for Wolt with integrated dashboards for account orders analytics. Built primarily to drive AI agents (OpenCode, Claude Desktop, etc.) so they can browse venues, manage carts, and preview checkout for me.
 - ⏱️ **[otta-cli](https://mekedron.github.io/otta-cli/)** — Go CLI for otta.fi, designed to be wired into AI agents like OpenCode or Claude Desktop to automate my Finnish time tracking, calendar, and absence workflows.
 - 👁️ **[ocr](https://github.com/mekedron/ocr)** — Screenshot CLI OCR for macOS. Single Go binary backed by Apple's Vision framework, zero dependencies.
 
 ### 🌐 Web & browser
 
 - 📝 **[InputStash](https://mekedron.github.io/InputStash/)** — Browser extension that keeps a local history of every form field you type into, so you never lose a draft.
-- 📊 **[wolt-stats](https://github.com/mekedron/wolt-stats)** ([demo](https://mekedron.github.io/wolt-stats/)) — Svelte dashboard to sync and explore your Wolt order history.
+- 📊 — Svelte dashboard to sync and explore your Wolt order history.
 
 ### 🧰 macOS setup & curations
 
