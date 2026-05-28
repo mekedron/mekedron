@@ -7,6 +7,7 @@ I'm a developer based in Espoo, Finland, and I love contributing to open source.
 ### 🖥️ Desktop apps
 
 - ✍️ **[ClipSlop](https://mekedron.github.io/ClipSlop/)** — 🌟 **FEATURED** 🌟 — Free AI writing tool for macOS. Fix grammar, translate, rewrite, or format text with a hotkey. Works with ChatGPT, Anthropic, and Ollama.
+- 🪟 **[Bringr](https://github.com/mekedron/Bringr)** — 🌟 **FEATURED** 🌟 — Radial pie-menu window switcher for macOS. Summon a wheel with a gesture, hover an app to fan out its windows with live previews, and click to bring one forward — no Cmd-Tab, no Mission Control.
 - 🎙️ **[PatchedVoiceInk](https://github.com/mekedron/PatchedVoiceInk)** — Community-patched fork of VoiceInk that I maintain. Near-instant local-first voice-to-text transcription for macOS.
 - 📤 **[MagicShare](https://mekedron.github.io/MagicShare/)** _[in progress, not done yet]_ — Fork I maintain. Open-source cross-platform alternative to AirDrop, with a Wake Up feature added.
 
