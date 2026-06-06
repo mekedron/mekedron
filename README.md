@@ -4,6 +4,10 @@ I'm a developer based in Espoo, Finland, and I love contributing to open source.
 
 ## Highlights
 
+### 🤖 AI agents & self-hosted services
+
+- 🎙️ **[Johnny](https://mekedron.github.io/Johnny/)** — 🌟 **FEATURED** 🌟 — Local-first, open-source AI agent that joins your Google Meet calls on your behalf. Transcribes, speaks within the limits you set, and runs 24/7 in Docker. Five behavior modes (silent → autonomous), powered by Ollama + faster-whisper + Piper out of the box — or Claude, GPT-4o, Gemini, Deepgram, ElevenLabs.
+
 ### 🖥️ Desktop apps
 
 - ✍️ **[ClipSlop](https://mekedron.github.io/ClipSlop/)** — 🌟 **FEATURED** 🌟 — Free AI writing tool for macOS. Fix grammar, translate, rewrite, or format text with a hotkey. Works with ChatGPT, Anthropic, and Ollama.
