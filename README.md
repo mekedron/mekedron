@@ -4,6 +4,10 @@ I'm a developer based in Espoo, Finland, and I love contributing to open source.
 
 ## Highlights
 
+### ☁️ SaaS
+
+- 💸 **[live.tips](https://live.tips)** _[IN PROGRESS]_ - Ko-fi and any other donation service alternative with *live tipjar* for offline concerts. Currently closed source, but I'll open the repo when it's ready, tested, and safe to open.
+
 ### 🖥️ Desktop apps
 
 - ✍️ **[ClipSlop](https://mekedron.github.io/ClipSlop/)** — Free AI writing tool for macOS. Fix grammar, translate, rewrite, or format text with a hotkey. Works with ChatGPT, Anthropic, and Ollama.
