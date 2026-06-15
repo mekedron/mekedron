@@ -30,6 +30,7 @@ I'm a developer based in Espoo, Finland, and I love contributing to open source.
 
 - 🔨 **[hammerspoon-config](https://github.com/mekedron/hammerspoon-config)** — My Hammerspoon setup for multi-laptop workflows on a single monitor, with audio routing and custom shortcuts.
 - 🍎 **[better-mac](https://github.com/mekedron/better-mac)** — A curated collection of must-have applications and tweaks for macOS.
+- 🍺 **[https://github.com/mekedron/homebrew-tap]()** - My homebrew tap where I release software.
 
 ---
 
