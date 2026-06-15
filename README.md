@@ -6,7 +6,7 @@ I'm a developer based in Espoo, Finland, and I love contributing to open source.
 
 ### 🤖 AI agents & self-hosted services
 
-- 🗣️ **[Johnny](https://mekedron.github.io/Johnny/)** — Local-first, open-source AI agent that joins your Google Meet calls on your behalf. Transcribes, speaks within the limits you set, and runs 24/7 in Docker. Five behavior modes (silent → autonomous), powered by Ollama + faster-whisper + Piper out of the box — or Claude, GPT-4o, Gemini, Deepgram, ElevenLabs.
+- 🗣️ **[Johnny](https://mekedron.github.io/Johnny/)** _[IN PROGRESS]_ — Local-first, open-source AI agent that joins your Google Meet calls on your behalf. Transcribes, speaks within the limits you set, and runs 24/7 in Docker. Five behavior modes (silent → autonomous), powered by Ollama + faster-whisper + Piper out of the box — or Claude, GPT-4o, Gemini, Deepgram, ElevenLabs.
 
 ### 🖥️ Desktop apps
 
@@ -14,7 +14,7 @@ I'm a developer based in Espoo, Finland, and I love contributing to open source.
 - 🪟 **[PieSwitcher](https://github.com/mekedron/PieSwitcher)** - Radial pie-menu window switcher for macOS. Summon a wheel with a gesture, hover an app to fan out its windows with live previews, and click to bring one forward — no Cmd-Tab, no Mission Control.
 - 🫣 **[HiddenBarIcons](https://github.com/mekedron/HiddenBarIcons)** - Macs with notch has one significant problem - you can't access menu bars icons if you have too many of them. This app fixes this issue.
 - 🎙️ **[PatchedVoiceInk](https://github.com/mekedron/PatchedVoiceInk)** — Community-patched fork of VoiceInk that I maintain. Near-instant local-first voice-to-text transcription for macOS.
-- 📤 **[MagicShare](https://mekedron.github.io/MagicShare/)** _[in progress, not done yet]_ — Fork I maintain. Open-source cross-platform alternative to AirDrop, with a Wake Up feature added.
+- 📤 **[MagicShare](https://mekedron.github.io/MagicShare/)** _[IN PROGRESS]_ — Fork I maintain. Open-source cross-platform alternative to AirDrop, with a Wake Up feature added.
 
 ### ⌨️ Command-line tools
 
