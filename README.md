@@ -12,6 +12,12 @@ I'm a developer based in Espoo, Finland, and I love contributing to open source.
 - 🎙️ **[PatchedVoiceInk](https://github.com/mekedron/PatchedVoiceInk)** — Community-patched fork of VoiceInk that I maintain. Near-instant local-first voice-to-text transcription for macOS.
 - 📤 **[MagicShare](https://mekedron.github.io/MagicShare/)** _[IN PROGRESS]_ — Fork I maintain. Open-source cross-platform alternative to AirDrop, with a Wake Up feature added.
 
+### ⌨️ Command-line tools
+
+- 🍔 **[wolt-cli](https://mekedron.github.io/wolt-cli/)** + **[wolt-stats](https://github.com/mekedron/wolt-stats)** ([demo](https://mekedron.github.io/wolt-stats/)) — Unofficial Go CLI for Wolt with integrated dashboards for account orders analytics. Built primarily to drive AI agents (OpenCode, Claude Desktop, etc.) so they can browse venues, manage carts, and preview checkout for me.
+- ⏱️ **[otta-cli](https://mekedron.github.io/otta-cli/)** — Go CLI for otta.fi, designed to be wired into AI agents like OpenCode or Claude Desktop to automate my Finnish time tracking, calendar, and absence workflows.
+- 👁️ **[ocr](https://github.com/mekedron/ocr)** — Screenshot CLI OCR for macOS. Single Go binary backed by Apple's Vision framework, zero dependencies.
+
 ### 🤖 AI agents & self-hosted services
 
 - 🗣️ **[Johnny](https://mekedron.github.io/Johnny/)** _[IN PROGRESS]_ — Local-first, open-source AI agent that joins your Google Meet calls on your behalf. Transcribes, speaks within the limits you set, and runs 24/7 in Docker. Five behavior modes (silent → autonomous), powered by Ollama + faster-whisper + Piper out of the box — or Claude, GPT-4o, Gemini, Deepgram, ElevenLabs.
@@ -19,12 +25,6 @@ I'm a developer based in Espoo, Finland, and I love contributing to open source.
 ### ☁️ SaaS
 
 - 💸 **[live.tips](https://live.tips)** _[IN PROGRESS]_ - Ko-fi and any other donation service alternative with *live tipjar* for offline concerts. Currently closed source, but I'll open the repo when it's ready, tested, and safe to open.
-
-### ⌨️ Command-line tools
-
-- 🍔 **[wolt-cli](https://mekedron.github.io/wolt-cli/)** + **[wolt-stats](https://github.com/mekedron/wolt-stats)** ([demo](https://mekedron.github.io/wolt-stats/)) — Unofficial Go CLI for Wolt with integrated dashboards for account orders analytics. Built primarily to drive AI agents (OpenCode, Claude Desktop, etc.) so they can browse venues, manage carts, and preview checkout for me.
-- ⏱️ **[otta-cli](https://mekedron.github.io/otta-cli/)** — Go CLI for otta.fi, designed to be wired into AI agents like OpenCode or Claude Desktop to automate my Finnish time tracking, calendar, and absence workflows.
-- 👁️ **[ocr](https://github.com/mekedron/ocr)** — Screenshot CLI OCR for macOS. Single Go binary backed by Apple's Vision framework, zero dependencies.
 
 ### 🌐 Web & browser
 
