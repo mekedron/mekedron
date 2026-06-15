@@ -24,7 +24,7 @@ I'm a developer based in Espoo, Finland, and I love contributing to open source.
 
 ### ☁️ SaaS
 
-- 🫙 **[live.tips](https://live.tips)** _[IN PROGRESS]_ - Live tipjar for offline performance and concerts. Literally Ko-fi and any other donation service alternative. Currently closed source, but I'll open the repo when it's ready, tested, and safe to open.
+- 🫙 **[live.tips](https://live.tips)** _[IN PROGRESS]_ - Live tip jar for offline performances and concerts. Literally a Ko-fi or any other donation service alternative. Currently closed source, but I'll open the repo when it's ready, tested, and safe to open.
 
 ### 🌐 Web & browser
 
