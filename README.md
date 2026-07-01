@@ -12,6 +12,7 @@ I'm a developer based in Espoo, Finland, and I love contributing to open source.
 - 🌎 **[OpenTranslate](https://github.com/mekedron/OpenTranslate)** - Missing iOS and macOS Safari extension for translating web pages. Default Safari's translation doesn't support manu languages, such as Finnish. With this extension you could easily read any resources on your iPhone!
 - 🎙️ **[PatchedVoiceInk](https://github.com/mekedron/PatchedVoiceInk)** — Community-patched fork of VoiceInk that I maintain. Near-instant local-first voice-to-text transcription for macOS.
 - 📤 **[MagicShare](https://mekedron.github.io/MagicShare/)** _[IN PROGRESS]_ — Fork I maintain. Open-source cross-platform alternative to AirDrop, with a Wake Up feature added.
+- 🔌 **[PatchedFritzing](https://github.com/mekedron/fritzing-app)** — Free version of Fritzing. Built for MacOS. Automatic builds via GitHub Actions. Not signed. Create your own breadboard!
 
 ### ⌨️ Command-line tools
 
