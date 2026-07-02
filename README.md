@@ -10,10 +10,10 @@ I'm a developer based in Espoo, Finland, and I love contributing to open source.
 - 🪟 **[PieSwitcher](https://mekedron.github.io/PieSwitcher/)** - Radial pie-menu window switcher for macOS. Summon a wheel with a gesture, hover an app to fan out its windows with live previews, and click to bring one forward — no Cmd-Tab, no Mission Control.
 - 🫣 **[HiddenBarIcons](https://mekedron.github.io/HiddenBarIcons/)** - Macs with notch has one significant problem - you can't access menu bars icons if you have too many of them. This app fixes this issue.
 - 🌎 **[OpenTranslate](https://github.com/mekedron/OpenTranslate)** - Missing iOS and macOS Safari extension for translating web pages. Default Safari's translation doesn't support manu languages, such as Finnish. With this extension you could easily read any resources on your iPhone!
-- 🎙️ **[PatchedVoiceInk](https://github.com/mekedron/PatchedVoiceInk)** — Community-patched fork of VoiceInk that I maintain. Near-instant local-first voice-to-text transcription for macOS.
-- 📤 **[MagicShare](https://mekedron.github.io/MagicShare/)** _[IN PROGRESS]_ — Fork I maintain. Open-source cross-platform alternative to AirDrop, with a Wake Up feature added.
-- 🔌 **[Patched Fritzing](https://github.com/mekedron/fritzing-app)** — Free version of Fritzing. Built for MacOS. Automatic builds via GitHub Actions. Not signed. Create your own breadboard!
 - 🖼️ **[Weather Wallpapers](https://github.com/mekedron/WeatherWallpapers)** - Create beautiful dynamic weather wallpapers for iPhone, iPad or Mac with AI! Create automation via Shortcuts which will resolve relevant wallpaper and set it for your lock and home screens.
+- 🎙️ **[PatchedVoiceInk (Fork)](https://github.com/mekedron/PatchedVoiceInk)** — Community-patched fork of VoiceInk that I maintain. Near-instant local-first voice-to-text transcription for macOS.
+- 🔌 **[Fritzing (Fork)](https://github.com/mekedron/fritzing-app)** — Free version of Fritzing. Built for MacOS. Automatic builds via GitHub Actions. Not signed. Create your own breadboard!
+- 📤 **[MagicShare](https://mekedron.github.io/MagicShare/)** _[IN PROGRESS]_ — Fork I maintain. Open-source cross-platform alternative to AirDrop, with a Wake Up feature added.
 
 ### ⌨️ Command-line tools
 
