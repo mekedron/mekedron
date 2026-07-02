@@ -13,7 +13,7 @@ I'm a developer based in Espoo, Finland, and I love contributing to open source.
 - 🖼️ **[Weather Wallpapers](https://github.com/mekedron/WeatherWallpapers)** - Create beautiful dynamic weather wallpapers for iPhone, iPad or Mac with AI! Create automation via Shortcuts which will resolve relevant wallpaper and set it for your lock and home screens.
 - 🎙️ **[PatchedVoiceInk (Fork)](https://github.com/mekedron/PatchedVoiceInk)** — Community-patched fork of VoiceInk that I maintain. Near-instant local-first voice-to-text transcription for macOS.
 - 🔌 **[Fritzing (Fork)](https://github.com/mekedron/fritzing-app)** — Free version of Fritzing. Built for MacOS. Automatic builds via GitHub Actions. Not signed. Create your own breadboard!
-- 📤 **[MagicShare](https://mekedron.github.io/MagicShare/)** _[IN PROGRESS]_ — Fork I maintain. Open-source cross-platform alternative to AirDrop, with a Wake Up feature added.
+- 📤 **[MagicShare (Fork)](https://mekedron.github.io/MagicShare/)** — Fork I maintain. Open-source cross-platform alternative to AirDrop, with a Wake Up feature added.
 
 ### ⌨️ Command-line tools
 
