@@ -9,8 +9,8 @@ I'm a developer based in Espoo, Finland, and I love contributing to open source.
 - ✍️ **[ClipSlop](https://mekedron.github.io/ClipSlop/)** — Free AI writing tool for macOS. Fix grammar, translate, rewrite, or format text with a hotkey. Works with ChatGPT, Anthropic, and Ollama.
 - 🪟 **[PieSwitcher](https://mekedron.github.io/PieSwitcher/)** - Radial pie-menu window switcher for macOS. Summon a wheel with a gesture, hover an app to fan out its windows with live previews, and click to bring one forward — no Cmd-Tab, no Mission Control.
 - 🫣 **[HiddenBarIcons](https://mekedron.github.io/HiddenBarIcons/)** - Macs with notch has one significant problem - you can't access menu bars icons if you have too many of them. This app fixes this issue.
-- 🌎 **[OpenTranslate](https://github.com/mekedron/OpenTranslate)** - Missing iOS and macOS Safari extension for translating web pages. Default Safari's translation doesn't support manu languages, such as Finnish. With this extension you could easily read any resources on your iPhone!
-- 🖼️ **[Weather Wallpapers](https://github.com/mekedron/WeatherWallpapers)** - Create beautiful dynamic weather wallpapers for iPhone, iPad or Mac with AI! Create automation via Shortcuts which will resolve relevant wallpaper and set it for your lock and home screens.
+- 🌎 **[OpenTranslate](https://mekedron.github.io/OpenTranslate/)** - Missing iOS and macOS Safari extension for translating web pages. Default Safari's translation doesn't support manu languages, such as Finnish. With this extension you could easily read any resources on your iPhone!
+- 🖼️ **[Weather Wallpapers](ttps://mekedron.github.io/WeatherWallpapers)** - Create beautiful dynamic weather wallpapers for iPhone, iPad or Mac with AI! Create automation via Shortcuts which will resolve relevant wallpaper and set it for your lock and home screens.
 
 ### ⌨️ Command-line tools
 
