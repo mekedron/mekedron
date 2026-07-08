@@ -4,6 +4,9 @@ I'm a developer based in Espoo, Finland, and I love contributing to open source.
 
 ## Highlights
 
+### 🌟 Featured
+- 💰 **[live.tips](https://live.tips/)** - Digital tip jar for live performances. Open source "DonationAlerts" alternative for offline events.
+
 ### 🖥️ Mac & iOS apps
 
 - ✍️ **[ClipSlop](https://mekedron.github.io/ClipSlop/)** — Free AI writing tool for macOS. Fix grammar, translate, rewrite, or format text with a hotkey. Works with ChatGPT, Anthropic, and Ollama.
@@ -11,7 +14,6 @@ I'm a developer based in Espoo, Finland, and I love contributing to open source.
 - 🫣 **[HiddenBarIcons](https://mekedron.github.io/HiddenBarIcons/)** - Macs with notch has one significant problem - you can't access menu bars icons if you have too many of them. This app fixes this issue.
 - 🌎 **[OpenTranslate](https://mekedron.github.io/OpenTranslate/)** - Missing iOS and macOS Safari extension for translating web pages. Default Safari's translation doesn't support manu languages, such as Finnish. With this extension you could easily read any resources on your iPhone!
 - 🖼️ **[Weather Wallpapers](https://mekedron.github.io/WeatherWallpapers)** - Create beautiful dynamic weather wallpapers for iPhone, iPad or Mac with AI! Create automation via Shortcuts which will resolve relevant wallpaper and set it for your lock and home screens.
-- 💰 **[live.tips](https://live.tips/)** - Digital tip jar for live performances. Open source "DonationAlerts" alternative for offline events.
 
 ### ⌨️ Command-line tools
 
