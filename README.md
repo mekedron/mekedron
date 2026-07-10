@@ -27,6 +27,7 @@ I'm a developer based in Espoo, Finland, and I love contributing to open source.
 
 ### 🌐 Web & browser
 
+- 💰 **[live.tips - SaaS](https://mekedron.github.io/platform.live.tips/)** - Open source ko-fi, TipTopJar and "Buy me a coffee" alternative. A platform.
 - 📝 **[InputStash](https://mekedron.github.io/InputStash/)** — Browser extension that keeps a local history of every form field you type into, so you never lose a draft.
 
 ### 🧰 macOS setup & curations
